@@ -17,9 +17,3 @@ This project implements an emotion recognition system using the InceptionV3 mode
 
 3. Prepare the data:
    - Place your training and test data in the `data/train` and `data/test` directories, respectively.
-
-## Training
-
-To train the model, run:
-```bash
-python src/train.py
